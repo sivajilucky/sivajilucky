@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sivajilucky
 - 👀 I’m interested in programming using python 
-- 🌱 I’m currently learning Android development
+- 🌱 I’m currently working as a Machine Learning Developer ar Oqlo.ai
 - 💞️ I’m looking to collaborate on machine learnig
 - 📫 How to reach me sivajikoppisetti@gmail.com
 
