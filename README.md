@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm sivaji koppisetti</h1>
+<h3 align="center">A passionated to learn new Technologies</h3>
 <h3 align="center">A passionate DataScience Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
@@ -8,9 +9,9 @@
 
 - 🔭 I’m currently working on **Oqlo.Ai as a Machine Learning Engineer Intern**
 
-- 🌱 I’m currently learning **Advanced statistics,Keras,Django,pytorch**
+- 🌱 I’m currently learning **Backend Technology**
 
-- 💬 Ask me about **DataScience,Machine Learning**
+- 💬 Ask me about **FullStack WebDevelopment,DataScience,Machine Learning**
 
 - 📫 How to reach me **sivajikoppisetti@gmail.com**
 
