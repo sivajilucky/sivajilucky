@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Oqlo.Ai as a Machine Learning Engineer Intern**
 
-- 🌱 I’m currently learning **Backend Technology**
+- 🌱 I’m currently learning **Backend Technologies like Node Js,Mongo DB,SQL**
 
 - 💬 Ask me about **FullStack WebDevelopment,DataScience,Machine Learning**
 
